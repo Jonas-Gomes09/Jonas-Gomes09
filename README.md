@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Prazer seja lá quem estiver lendo isso</h1>
 
-<!--
-**Jonas-Gomes09/Jonas-Gomes09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou um programador muito profissional, sério mesmo. Eu ajo exatamente como um:
+1. Escrevo uma linha de código;
+2. A linha acaba quebrando o script ou o projeto inteiro;
+3. Eu passo 5 horas tentando corrigir;
+4. Não consigo corrigir e tenho que ir pra apelação suprema, que é ou IA ou internet
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br><br>
+<h3 align="center">Abaixo estão minhas contribuições de programador profissional:</h3>
+<div align="center">
+  <a href="https://github.com/Jonas-Gomes09">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonas-Gomes09&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Gomes09&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<br><br>
+#
+<h3 align="center">Eu estou por toda parte, principalmente nesses lugares:</h3>
+<div style="display: inline_block" align='center'>
+  <a><img ></a>
+</div>
