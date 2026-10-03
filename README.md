@@ -13,6 +13,7 @@ Eu sou um programador muito profissional, sério mesmo. Eu ajo exatamente como u
 <div align="center">
   <a href="https://github.com/Jonas-Gomes09">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonas-Gomes09&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  &nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Gomes09&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
@@ -20,5 +21,11 @@ Eu sou um programador muito profissional, sério mesmo. Eu ajo exatamente como u
 #
 <h3 align="center">Eu estou por toda parte, principalmente nesses lugares:</h3>
 <div style="display: inline_block" align='center'>
-  <a><img ></a>
+  <a href="https://www.youtube.com/@Agi_modo"><img height="60em" src="./Youtube.png" alt="Youtube">   </a>
+  &nbsp;&nbsp;
+  <a href="https://modrinth.com/user/Modo_Agiota"><img height="60em" src="./Modrinth.png" alt="Modrinth">   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:modoagiota@gmail.com"><img height="60em" src="./Gmail.png" alt="Gmail">   </a>
+  &nbsp;&nbsp;
+  <a href="https://ko-fi.com/modoagiota"><img height="60em" src="./Kofi.png" alt="Kofi">   </a>
 </div>
