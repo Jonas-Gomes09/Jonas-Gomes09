@@ -10,6 +10,7 @@ Eu sou um programador muito profissional, sério mesmo. Eu ajo exatamente como u
 
 <br><br>
 <h3 align="center">Abaixo estão minhas contribuições de programador profissional:</h3>
+<p align="center">Se tiver dando erro é somente puro profissionalismo</p>
 <div align="center">
   <a href="https://github.com/Jonas-Gomes09">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonas-Gomes09&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
